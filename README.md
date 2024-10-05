@@ -6,7 +6,10 @@
 
 Lets Connect
 
-linkedin.com/in/shubham-sharma-a2497a301 🌐
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shubham-sharma-a2497a301) 🌐
+ 
 
 ## PROJECT NAME: 
 
@@ -72,3 +75,40 @@ The dashboard shows:
 ## DASHBOARD:
 
 ![Screenshot 2024-10-05 143437](https://github.com/user-attachments/assets/5053b8c7-b196-4621-982c-ce2642cb5679)
+
+# Netflix Data Dashboard Overview
+
+This dashboard provides a comprehensive analysis of Netflix's Movies and TV Shows based on various parameters such as country, genre, rating, and release year.
+
+## Key Insights
+
+- **Content Distribution**:
+  - **68.42%** of the available content on Netflix is **Movies**, while **31.58%** consists of **TV Shows**.
+  
+- **Top Genres**:
+  - The most popular genre is **Documentaries** with 299 titles, followed by **Stand-Up Comedy** with 273 titles.
+  
+- **Ratings Breakdown**:
+  - **TV-MA** (Mature Audience) dominates the rating distribution with 2,027 titles.
+  - **TV-14** and **TV-PG** are also highly prevalent with 1,698 and 701 titles respectively.
+
+- **Global Availability**:
+  - The map visualization highlights the global reach of Netflix, showing a vast collection of content across different countries.
+  
+- **Content by Year**:
+  - Netflix has seen a significant increase in both Movies and TV Shows over the past decade, with the highest content release happening around **2017** and beyond.
+  
+## Dashboard Sections
+
+1. **Content by Country**: Visualizes the distribution of total Movies & TV Shows by country.
+2. **Ratings**: Provides insights into the ratings of available content.
+3. **Movies vs TV Shows Distribution**: A pie chart showcasing the proportion of Movies to TV Shows.
+4. **Top Genres**: A horizontal bar chart displaying the top 10 genres by number of titles.
+5. **Year-wise Distribution**: A line chart that shows the total content added each year, highlighting the surge in both Movies and TV Shows over time.
+
+## Summary
+
+This dashboard presents a clear picture of Netflix's content offering. The global distribution map and genre classification provide useful insights into user preferences. The data shows a predominance of **Movies** over **TV Shows**, with an increasing trend of content being added year by year.
+
+Feel free to explore the dashboard to dive deeper into the data!
+
