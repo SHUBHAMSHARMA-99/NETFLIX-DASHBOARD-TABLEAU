@@ -52,17 +52,19 @@ Netflix Data Analysis Using Tableau
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
 
 ### Vertical Bar Graph of Rating & Horizontal Bar Graph of Top 10 Gerne.
-
+- **TV-MA** (Mature Audience) dominates the rating distribution with 2,027 titles.
+  - **TV-14** and **TV-PG** are also highly prevalent with 1,698 and 701 titles respectively.
+  
 ![Netflix1](https://user-images.githubusercontent.com/124501309/218270328-913ef05d-c6dc-478c-93ef-cc1dacdc1751.jpg)
 
-
-
+ - **Top Genres**:
+  - The most popular genre is **Documentaries** with 299 titles, followed by **Stand-Up Comedy** with 273 titles.
 ### Country wise Map of Total Movies and TV shows by Country & line Area Graph of Total Movies and TV shows by Year.
-
+- The map visualization highlights the global reach of Netflix, showing a vast collection of content across different countries
 ![Netflix2](https://user-images.githubusercontent.com/124501309/218270348-03ad03b0-c9aa-4b19-a3fe-afe13298e67a.jpg)
-
-
-
+- **Content by Year**:
+  - Netflix has seen a significant increase in both Movies and TV Shows over the past decade, with the highest content release happening around **2017** and beyond.
+ 
 ## NETFLIX ANALYSIS DASHBOARD:
 
 The dashboard shows:
@@ -80,25 +82,7 @@ The dashboard shows:
 
 This dashboard provides a comprehensive analysis of Netflix's Movies and TV Shows based on various parameters such as country, genre, rating, and release year.
 
-## Key Insights
-
-- **Content Distribution**:
-  - **68.42%** of the available content on Netflix is **Movies**, while **31.58%** consists of **TV Shows**.
-  
-- **Top Genres**:
-  - The most popular genre is **Documentaries** with 299 titles, followed by **Stand-Up Comedy** with 273 titles.
-  
-- **Ratings Breakdown**:
-  - **TV-MA** (Mature Audience) dominates the rating distribution with 2,027 titles.
-  - **TV-14** and **TV-PG** are also highly prevalent with 1,698 and 701 titles respectively.
-
-- **Global Availability**:
-  - The map visualization highlights the global reach of Netflix, showing a vast collection of content across different countries.
-  
-- **Content by Year**:
-  - Netflix has seen a significant increase in both Movies and TV Shows over the past decade, with the highest content release happening around **2017** and beyond.
-  
-## Dashboard Sections
+  ## Dashboard Sections
 
 1. **Content by Country**: Visualizes the distribution of total Movies & TV Shows by country.
 2. **Ratings**: Provides insights into the ratings of available content.
@@ -106,9 +90,13 @@ This dashboard provides a comprehensive analysis of Netflix's Movies and TV Show
 4. **Top Genres**: A horizontal bar chart displaying the top 10 genres by number of titles.
 5. **Year-wise Distribution**: A line chart that shows the total content added each year, highlighting the surge in both Movies and TV Shows over time.
 
-## Summary
+### Recommendations
+- **Diversify TV Shows**: Increase TV show offerings to balance the movie-heavy catalog.
+- **Expand Genre Variety**: Focus on producing content in underrepresented genres to attract diverse audiences.
+- **Leverage Global Content**: Continue expanding internationally by investing in region-specific content.
 
-This dashboard presents a clear picture of Netflix's content offering. The global distribution map and genre classification provide useful insights into user preferences. The data shows a predominance of **Movies** over **TV Shows**, with an increasing trend of content being added year by year.
-
-Feel free to explore the dashboard to dive deeper into the data!
-
+### Conclusion
+- The Netflix content library is dominated by **Movies (68%)**.
+- **Documentaries** and **Stand-Up Comedy** are the most popular genres.
+- **TV-MA** is the most frequent rating.
+- Content has grown significantly since **2017**, especially in **Movies**.
