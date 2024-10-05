@@ -8,7 +8,7 @@ Lets Connect
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shubham-sharma-a2497a301) 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shubham-sharma-a2497a301) 
  
 
 ## PROJECT NAME: 
